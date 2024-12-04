@@ -1,0 +1,18 @@
+Analysis & Synthesis Status : Successful - Wed Jan  3 00:16:32 2024
+Quartus Prime Version : 22.1std.2 Build 922 07/20/2023 SC Lite Edition
+Revision Name : sequenceDetector
+Top-level Entity Name : sequenceDetector
+Family : Cyclone IV GX
+Total logic elements : 7
+    Total combinational functions : 7
+    Dedicated logic registers : 7
+Total registers : 7
+Total pins : 4
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total GXB Receiver Channel PCS : 0
+Total GXB Receiver Channel PMA : 0
+Total GXB Transmitter Channel PCS : 0
+Total GXB Transmitter Channel PMA : 0
+Total PLLs : 0

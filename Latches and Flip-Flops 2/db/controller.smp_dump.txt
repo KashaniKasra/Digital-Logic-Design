@@ -1,0 +1,9 @@
+
+State Machine - |controller|ps
+Name ps.downcnt ps.load ps.upcnt ps.detect ps.init ps.Idle 
+ps.Idle 0 0 0 0 0 0 
+ps.init 0 0 0 0 1 1 
+ps.detect 0 0 0 1 0 1 
+ps.upcnt 0 0 1 0 0 1 
+ps.load 0 1 0 0 0 1 
+ps.downcnt 1 0 0 0 0 1 

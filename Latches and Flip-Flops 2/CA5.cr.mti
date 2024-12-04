@@ -1,0 +1,73 @@
+C:/Users/Asus/Desktop/CA6/b2_testBench.v {1 {vlog -work work -stats=none C:/Users/Asus/Desktop/CA6/b2_testBench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counterRegister_testBench
+
+Top level modules:
+	counterRegister_testBench
+
+} {} {}} C:/Users/Asus/Desktop/CA6/d0.v {1 {vlog -work work -stats=none C:/Users/Asus/Desktop/CA6/d0.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module d_detector
+
+Top level modules:
+	d_detector
+
+} {} {}} C:/Users/Asus/Desktop/CA6/d2_testBench.v {1 {vlog -work work -stats=none C:/Users/Asus/Desktop/CA6/d2_testBench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module serial_transmitter_circuit_testBench
+
+Top level modules:
+	serial_transmitter_circuit_testBench
+
+} {} {}} C:/Users/Asus/Desktop/CA6/d1.v {1 {vlog -work work -stats=none C:/Users/Asus/Desktop/CA6/d1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/Asus/Desktop/CA6/a1_testBench.v {1 {vlog -work work -stats=none C:/Users/Asus/Desktop/CA6/a1_testBench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sequenceDetector_testBench
+
+Top level modules:
+	sequenceDetector_testBench
+
+} {} {}} C:/Users/Asus/Desktop/CA6/a1.v {1 {vlog -work work -stats=none C:/Users/Asus/Desktop/CA6/a1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sequenceDetector
+
+Top level modules:
+	sequenceDetector
+
+} {} {}} C:/Users/Asus/Desktop/CA6/a3_testBench.v {1 {vlog -work work -stats=none C:/Users/Asus/Desktop/CA6/a3_testBench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module prePost_detector_testBench
+
+Top level modules:
+	prePost_detector_testBench
+
+} {} {}} C:/Users/Asus/Desktop/CA6/c2_testBench.v {1 {vlog -work work -stats=none C:/Users/Asus/Desktop/CA6/c2_testBench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module transmitter_testBench
+
+Top level modules:
+	transmitter_testBench
+
+} {} {}} C:/Users/Asus/Desktop/CA6/simulation/modelsim/sequenceDetector.vo {1 {vlog -work work -stats=none C:/Users/Asus/Desktop/CA6/simulation/modelsim/sequenceDetector.vo
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sequenceDetectorPost
+-- Compiling module hard_block
+
+Top level modules:
+	sequenceDetectorPost
+
+} {} {}} C:/Users/Asus/Desktop/CA6/simulation/modelsim/counterRegister.vo {1 {vlog -work work -stats=none C:/Users/Asus/Desktop/CA6/simulation/modelsim/counterRegister.vo
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counterRegister
+-- Compiling module hard_block
+
+Top level modules:
+	counterRegister
+
+} {} {}}

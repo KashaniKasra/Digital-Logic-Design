@@ -1,0 +1,101 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "co",
+					"strict" : false
+				},
+				{
+					"name" : "serOut",
+					"strict" : false
+				},
+				{
+					"name" : "parOut[7]",
+					"strict" : false
+				},
+				{
+					"name" : "parOut[6]",
+					"strict" : false
+				},
+				{
+					"name" : "parOut[5]",
+					"strict" : false
+				},
+				{
+					"name" : "parOut[4]",
+					"strict" : false
+				},
+				{
+					"name" : "parOut[3]",
+					"strict" : false
+				},
+				{
+					"name" : "parOut[2]",
+					"strict" : false
+				},
+				{
+					"name" : "parOut[1]",
+					"strict" : false
+				},
+				{
+					"name" : "parOut[0]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "parIn[7]",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "ld",
+					"strict" : false
+				},
+				{
+					"name" : "en",
+					"strict" : false
+				},
+				{
+					"name" : "parIn[6]",
+					"strict" : false
+				},
+				{
+					"name" : "parIn[5]",
+					"strict" : false
+				},
+				{
+					"name" : "parIn[4]",
+					"strict" : false
+				},
+				{
+					"name" : "parIn[3]",
+					"strict" : false
+				},
+				{
+					"name" : "parIn[2]",
+					"strict" : false
+				},
+				{
+					"name" : "parIn[1]",
+					"strict" : false
+				},
+				{
+					"name" : "parIn[0]",
+					"strict" : false
+				},
+				{
+					"name" : "serIn",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

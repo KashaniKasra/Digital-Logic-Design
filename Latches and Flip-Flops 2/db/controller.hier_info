@@ -1,0 +1,25 @@
+|controller
+start => Selector1.IN2
+start => Selector0.IN1
+start => Selector2.IN1
+clk => ps~1.DATAIN
+rst => ps~3.DATAIN
+w => Selector3.IN3
+w => Selector6.IN3
+w => Selector5.IN2
+w => Selector2.IN2
+uc_co => Selector4.IN4
+uc_co => Selector7.IN3
+uc_co => Selector6.IN1
+uc_co => Selector3.IN1
+dc_co => Selector0.IN3
+dc_co => Selector7.IN1
+dc_co => Selector4.IN2
+ready << ready.DB_MAX_OUTPUT_PORT_TYPE
+det_en << Selector5.DB_MAX_OUTPUT_PORT_TYPE
+uc_en << Selector6.DB_MAX_OUTPUT_PORT_TYPE
+uc_set0 << uc_set0.DB_MAX_OUTPUT_PORT_TYPE
+dc_en << Selector7.DB_MAX_OUTPUT_PORT_TYPE
+dc_ld << dc_ld.DB_MAX_OUTPUT_PORT_TYPE
+
+

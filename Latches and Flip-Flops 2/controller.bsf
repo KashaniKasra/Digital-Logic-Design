@@ -1,0 +1,145 @@
+/*
+WARNING: Do NOT edit the input and output ports in this file in a text
+editor if you plan to continue editing the block that represents it in
+the Block Editor! File corruption is VERY likely to occur.
+*/
+/*
+Copyright (C) 2023  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+*/
+(header "symbol" (version "1.1"))
+(symbol
+	(rect 16 16 176 160)
+	(text "controller" (rect 5 0 40 12)(font "Arial" ))
+	(text "inst" (rect 8 128 20 140)(font "Arial" ))
+	(port
+		(pt 0 32)
+		(input)
+		(text "start" (rect 0 0 17 12)(font "Arial" ))
+		(text "start" (rect 21 27 38 39)(font "Arial" ))
+		(line (pt 0 32)(pt 16 32)(line_width 1))
+	)
+	(port
+		(pt 0 48)
+		(input)
+		(text "clk" (rect 0 0 10 12)(font "Arial" ))
+		(text "clk" (rect 21 43 31 55)(font "Arial" ))
+		(line (pt 0 48)(pt 16 48)(line_width 1))
+	)
+	(port
+		(pt 0 64)
+		(input)
+		(text "rst" (rect 0 0 10 12)(font "Arial" ))
+		(text "rst" (rect 21 59 31 71)(font "Arial" ))
+		(line (pt 0 64)(pt 16 64)(line_width 1))
+	)
+	(port
+		(pt 0 80)
+		(input)
+		(text "w" (rect 0 0 5 12)(font "Arial" ))
+		(text "w" (rect 21 75 26 87)(font "Arial" ))
+		(line (pt 0 80)(pt 16 80)(line_width 1))
+	)
+	(port
+		(pt 0 96)
+		(input)
+		(text "uc_co" (rect 0 0 24 12)(font "Arial" ))
+		(text "uc_co" (rect 21 91 45 103)(font "Arial" ))
+		(line (pt 0 96)(pt 16 96)(line_width 1))
+	)
+	(port
+		(pt 0 112)
+		(input)
+		(text "dc_co" (rect 0 0 24 12)(font "Arial" ))
+		(text "dc_co" (rect 21 107 45 119)(font "Arial" ))
+		(line (pt 0 112)(pt 16 112)(line_width 1))
+	)
+	(port
+		(pt 160 32)
+		(output)
+		(text "ready" (rect 0 0 23 12)(font "Arial" ))
+		(text "ready" (rect 116 27 139 39)(font "Arial" ))
+		(line (pt 160 32)(pt 144 32)(line_width 1))
+	)
+	(port
+		(pt 160 48)
+		(output)
+		(text "det_en" (rect 0 0 27 12)(font "Arial" ))
+		(text "det_en" (rect 112 43 139 55)(font "Arial" ))
+		(line (pt 160 48)(pt 144 48)(line_width 1))
+	)
+	(port
+		(pt 160 64)
+		(output)
+		(text "uc_en" (rect 0 0 24 12)(font "Arial" ))
+		(text "uc_en" (rect 115 59 139 71)(font "Arial" ))
+		(line (pt 160 64)(pt 144 64)(line_width 1))
+	)
+	(port
+		(pt 160 80)
+		(output)
+		(text "uc_set0" (rect 0 0 31 12)(font "Arial" ))
+		(text "uc_set0" (rect 108 75 139 87)(font "Arial" ))
+		(line (pt 160 80)(pt 144 80)(line_width 1))
+	)
+	(port
+		(pt 160 96)
+		(output)
+		(text "dc_en" (rect 0 0 24 12)(font "Arial" ))
+		(text "dc_en" (rect 115 91 139 103)(font "Arial" ))
+		(line (pt 160 96)(pt 144 96)(line_width 1))
+	)
+	(port
+		(pt 160 112)
+		(output)
+		(text "dc_ld" (rect 0 0 21 12)(font "Arial" ))
+		(text "dc_ld" (rect 118 107 139 119)(font "Arial" ))
+		(line (pt 160 112)(pt 144 112)(line_width 1))
+	)
+	(parameter
+		"Idle"
+		"000"
+		""
+		(type "PARAMETER_UNSIGNED_BIN")	)
+	(parameter
+		"init"
+		"001"
+		""
+		(type "PARAMETER_UNSIGNED_BIN")	)
+	(parameter
+		"detect"
+		"010"
+		""
+		(type "PARAMETER_UNSIGNED_BIN")	)
+	(parameter
+		"upcnt"
+		"011"
+		""
+		(type "PARAMETER_UNSIGNED_BIN")	)
+	(parameter
+		"load"
+		"100"
+		""
+		(type "PARAMETER_UNSIGNED_BIN")	)
+	(parameter
+		"downcnt"
+		"101"
+		""
+		(type "PARAMETER_UNSIGNED_BIN")	)
+	(drawing
+		(rectangle (rect 16 16 144 128)(line_width 1))
+	)
+	(annotation_block (parameter)(rect 176 -64 276 16))
+)

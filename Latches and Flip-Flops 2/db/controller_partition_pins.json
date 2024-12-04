@@ -1,0 +1,53 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "ready",
+					"strict" : false
+				},
+				{
+					"name" : "det_en",
+					"strict" : false
+				},
+				{
+					"name" : "uc_en",
+					"strict" : false
+				},
+				{
+					"name" : "uc_set0",
+					"strict" : false
+				},
+				{
+					"name" : "dc_en",
+					"strict" : false
+				},
+				{
+					"name" : "w",
+					"strict" : false
+				},
+				{
+					"name" : "uc_co",
+					"strict" : false
+				},
+				{
+					"name" : "dc_co",
+					"strict" : false
+				},
+				{
+					"name" : "start",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
