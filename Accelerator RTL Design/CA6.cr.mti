@@ -1,0 +1,46 @@
+C:/Users/Asus/Desktop/CA6/ROM.v {1 {vlog -work work -stats=none C:/Users/Asus/Desktop/CA6/ROM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ROM
+
+Top level modules:
+	ROM
+
+} {} {}} C:/Users/Asus/Desktop/CA6/registerV.v {1 {vlog -work work -stats=none C:/Users/Asus/Desktop/CA6/registerV.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module registerV
+
+Top level modules:
+	registerV
+
+} {} {}} C:/Users/Asus/Desktop/CA6/lookupTableV.v {1 {vlog -work work -stats=none C:/Users/Asus/Desktop/CA6/lookupTableV.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module lookupTableV
+
+Top level modules:
+	lookupTableV
+
+} {} {}} C:/Users/Asus/Desktop/CA6/simulation/modelsim/controller.vo {1 {vlog -work work -stats=none C:/Users/Asus/Desktop/CA6/simulation/modelsim/controller.vo
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+-- Compiling module hard_block
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/Asus/Desktop/CA6/simulation/modelsim/cosx.vo {1 {vlog -work work -stats=none C:/Users/Asus/Desktop/CA6/simulation/modelsim/cosx.vo
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cosx
+-- Compiling module hard_block
+
+Top level modules:
+	cosx
+
+} {} {}} C:/Users/Asus/Desktop/CA6/simulation/modelsim/dataPath2.vo {1 {vlog -work work -stats=none C:/Users/Asus/Desktop/CA6/simulation/modelsim/dataPath2.vo
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dataPath2
+-- Compiling module hard_block
+
+Top level modules:
+	dataPath2
+
+} {} {}}

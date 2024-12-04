@@ -1,0 +1,113 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 125C Model Setup 'clock'
+Slack : -9.232
+TNS   : -227.009
+
+Type  : Slow 1200mV 125C Model Setup 'controller:inst|ps.init'
+Slack : -3.590
+TNS   : -3.590
+
+Type  : Slow 1200mV 125C Model Setup 'dataPath2:inst1|counter:inst2|lpm_counter:LPM_COUNTER_component|cntr_1lk:auto_generated|counter_reg_bit[2]'
+Slack : -2.199
+TNS   : -16.124
+
+Type  : Slow 1200mV 125C Model Hold 'clock'
+Slack : 0.424
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Hold 'dataPath2:inst1|counter:inst2|lpm_counter:LPM_COUNTER_component|cntr_1lk:auto_generated|counter_reg_bit[2]'
+Slack : 0.583
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Hold 'controller:inst|ps.init'
+Slack : 0.832
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -116.277
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'controller:inst|ps.init'
+Slack : 0.393
+TNS   : 0.000
+
+Type  : Slow 1200mV 125C Model Minimum Pulse Width 'dataPath2:inst1|counter:inst2|lpm_counter:LPM_COUNTER_component|cntr_1lk:auto_generated|counter_reg_bit[2]'
+Slack : 0.420
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Setup 'clock'
+Slack : -7.767
+TNS   : -191.552
+
+Type  : Slow 1200mV -40C Model Setup 'controller:inst|ps.init'
+Slack : -3.122
+TNS   : -3.122
+
+Type  : Slow 1200mV -40C Model Setup 'dataPath2:inst1|counter:inst2|lpm_counter:LPM_COUNTER_component|cntr_1lk:auto_generated|counter_reg_bit[2]'
+Slack : -1.796
+TNS   : -13.140
+
+Type  : Slow 1200mV -40C Model Hold 'clock'
+Slack : 0.342
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Hold 'dataPath2:inst1|counter:inst2|lpm_counter:LPM_COUNTER_component|cntr_1lk:auto_generated|counter_reg_bit[2]'
+Slack : 0.527
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Hold 'controller:inst|ps.init'
+Slack : 0.713
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -94.500
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'dataPath2:inst1|counter:inst2|lpm_counter:LPM_COUNTER_component|cntr_1lk:auto_generated|counter_reg_bit[2]'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'controller:inst|ps.init'
+Slack : 0.446
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Setup 'clock'
+Slack : -3.690
+TNS   : -75.807
+
+Type  : Fast 1200mV -40C Model Setup 'controller:inst|ps.init'
+Slack : -1.464
+TNS   : -1.464
+
+Type  : Fast 1200mV -40C Model Setup 'dataPath2:inst1|counter:inst2|lpm_counter:LPM_COUNTER_component|cntr_1lk:auto_generated|counter_reg_bit[2]'
+Slack : -0.699
+TNS   : -4.890
+
+Type  : Fast 1200mV -40C Model Hold 'clock'
+Slack : 0.178
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Hold 'dataPath2:inst1|counter:inst2|lpm_counter:LPM_COUNTER_component|cntr_1lk:auto_generated|counter_reg_bit[2]'
+Slack : 0.271
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Hold 'controller:inst|ps.init'
+Slack : 0.364
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -65.639
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'dataPath2:inst1|counter:inst2|lpm_counter:LPM_COUNTER_component|cntr_1lk:auto_generated|counter_reg_bit[2]'
+Slack : 0.399
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'controller:inst|ps.init'
+Slack : 0.435
+TNS   : 0.000
+
+------------------------------------------------------------

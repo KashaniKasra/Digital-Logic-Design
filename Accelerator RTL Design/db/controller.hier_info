@@ -1,0 +1,20 @@
+|controller
+clock => ps~1.DATAIN
+reset => ps~3.DATAIN
+start => Selector5.IN2
+start => Selector4.IN1
+start => ns.load.DATAB
+compared => ns.subAdd.DATAB
+compared => Selector4.IN2
+load_x <= <VCC>
+init1_t <= <VCC>
+load_t <= load_t$latch.DB_MAX_OUTPUT_PORT_TYPE
+init1_r <= <VCC>
+load_r <= <VCC>
+init0_cnt <= <VCC>
+en_cnt <= en_cnt$latch.DB_MAX_OUTPUT_PORT_TYPE
+sel <= sel$latch.DB_MAX_OUTPUT_PORT_TYPE
+ci <= ci$latch.DB_MAX_OUTPUT_PORT_TYPE
+ready <= ready$latch.DB_MAX_OUTPUT_PORT_TYPE
+
+

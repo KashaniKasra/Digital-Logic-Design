@@ -1,0 +1,153 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "regOut[0]",
+					"strict" : false
+				},
+				{
+					"name" : "regOut[1]",
+					"strict" : false
+				},
+				{
+					"name" : "regOut[2]",
+					"strict" : false
+				},
+				{
+					"name" : "regOut[3]",
+					"strict" : false
+				},
+				{
+					"name" : "regOut[4]",
+					"strict" : false
+				},
+				{
+					"name" : "regOut[5]",
+					"strict" : false
+				},
+				{
+					"name" : "regOut[6]",
+					"strict" : false
+				},
+				{
+					"name" : "regOut[7]",
+					"strict" : false
+				},
+				{
+					"name" : "regOut[8]",
+					"strict" : false
+				},
+				{
+					"name" : "regOut[9]",
+					"strict" : false
+				},
+				{
+					"name" : "regOut[10]",
+					"strict" : false
+				},
+				{
+					"name" : "regOut[11]",
+					"strict" : false
+				},
+				{
+					"name" : "regOut[12]",
+					"strict" : false
+				},
+				{
+					"name" : "regOut[13]",
+					"strict" : false
+				},
+				{
+					"name" : "regOut[14]",
+					"strict" : false
+				},
+				{
+					"name" : "regOut[15]",
+					"strict" : false
+				},
+				{
+					"name" : "regIn[0]",
+					"strict" : false
+				},
+				{
+					"name" : "init1",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "load",
+					"strict" : false
+				},
+				{
+					"name" : "regIn[1]",
+					"strict" : false
+				},
+				{
+					"name" : "regIn[2]",
+					"strict" : false
+				},
+				{
+					"name" : "regIn[3]",
+					"strict" : false
+				},
+				{
+					"name" : "regIn[4]",
+					"strict" : false
+				},
+				{
+					"name" : "regIn[5]",
+					"strict" : false
+				},
+				{
+					"name" : "regIn[6]",
+					"strict" : false
+				},
+				{
+					"name" : "regIn[7]",
+					"strict" : false
+				},
+				{
+					"name" : "regIn[8]",
+					"strict" : false
+				},
+				{
+					"name" : "regIn[9]",
+					"strict" : false
+				},
+				{
+					"name" : "regIn[10]",
+					"strict" : false
+				},
+				{
+					"name" : "regIn[11]",
+					"strict" : false
+				},
+				{
+					"name" : "regIn[12]",
+					"strict" : false
+				},
+				{
+					"name" : "regIn[13]",
+					"strict" : false
+				},
+				{
+					"name" : "regIn[14]",
+					"strict" : false
+				},
+				{
+					"name" : "regIn[15]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

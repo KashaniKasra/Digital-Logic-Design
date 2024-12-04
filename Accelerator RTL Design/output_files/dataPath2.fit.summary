@@ -1,0 +1,20 @@
+Fitter Status : Successful - Wed Jan 10 05:02:04 2024
+Quartus Prime Version : 22.1std.2 Build 922 07/20/2023 SC Lite Edition
+Revision Name : dataPath2
+Top-level Entity Name : dataPath2
+Family : Cyclone IV GX
+Device : EP4CGX15BF14A7
+Timing Models : Final
+Total logic elements : 400 / 14,400 ( 3 % )
+    Total combinational functions : 400 / 14,400 ( 3 % )
+    Dedicated logic registers : 52 / 14,400 ( < 1 % )
+Total registers : 52
+Total pins : 60 / 81 ( 74 % )
+Total virtual pins : 0
+Total memory bits : 0 / 552,960 ( 0 % )
+Embedded Multiplier 9-bit elements : 0
+Total GXB Receiver Channel PCS : 0 / 2 ( 0 % )
+Total GXB Receiver Channel PMA : 0 / 2 ( 0 % )
+Total GXB Transmitter Channel PCS : 0 / 2 ( 0 % )
+Total GXB Transmitter Channel PMA : 0 / 2 ( 0 % )
+Total PLLs : 0 / 3 ( 0 % )
